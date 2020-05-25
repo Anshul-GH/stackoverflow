@@ -1,0 +1,31 @@
+[
+    {
+        "date": 20200402,
+        "state": "AL",
+        "positive": 1233,
+        "negative": 7503,
+        "pending": null,
+        "hospitalizedCurrently": null,
+        "hospitalizedCumulative": null,
+        "inIcuCurrently": null,
+        "inIcuCumulative": null,
+        "onVentilatorCurrently": null,
+        "onVentilatorCumulative": null,
+        "recovered": null,
+        "dataQualityGrade": "B",
+        "lastUpdateEt": "4/2/2020 00:00",
+        "hash": "3b7e06a8f363841e0c01239ec822fb61543caa33",
+        "dateChecked": "2020-04-02T20:00:00Z",
+        "death": 32,
+        "hospitalized": null,
+        "total": 8736,
+        "totalTestResults": 8736,
+        "posNeg": 8736,
+        "fips": "01",
+        "deathIncrease": 6,
+        "hospitalizedIncrease": 0,
+        "negativeIncrease": 806,
+        "positiveIncrease": 156,
+        "totalTestResultsIncrease": 962
+    }
+]
