@@ -1,0 +1,375 @@
+{
+	"notifications": [{
+			"timestamp": "151234123231",
+			"path_elements": [
+				"Devices",
+				"DD3ASDSADAS",
+				"versioned-data",
+				"interfaces",
+				"data",
+				"ET3",
+				"aggregate",
+				"rates",
+				"1m"
+			],
+			"updates": {
+				"alignmentErrors": {
+					"key": "alignmentErrors",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"fcsErrors": {
+					"key": "fcsErrors",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"frameTooLongs": {
+					"key": "frameTooLongs",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"frameTooShorts": {
+					"key": "frameTooShorts",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"inBroadcastPkts": {
+					"key": "inBroadcastPkts",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"inDiscards": {
+					"key": "inDiscards",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"inErrors": {
+					"key": "inErrors",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"outBroadcastPkts": {
+					"key": "outBroadcastPkts",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"outDiscards": {
+					"key": "outDiscards",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"outErrors": {
+					"key": "outErrors",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				},
+				"symbolErrors": {
+					"key": "symbolErrors",
+					"value": {
+						"avg": {
+							"float": 0
+						},
+						"max": {
+							"float": 0
+						},
+						"min": {
+							"float": 0
+						},
+						"stddev": {
+							"float": 0
+						},
+						"weight": {
+							"float": 1
+						}
+					}
+				}
+			}
+		},
+		{
+			"timestamp": "124524124141",
+			"path_elements": [
+				"Devices",
+				"DD3ASDSADAS",
+				"versioned-data",
+				"interfaces",
+				"data",
+				"ET3",
+				"aggregate",
+				"rates",
+				"1m"
+			],
+			"updates": {
+				"inMulticastPkts": {
+					"key": "inMulticastPkts",
+					"value": {
+						"avg": {
+							"float": 7.494083588930334
+						},
+						"max": {
+							"float": 8.19337154666611
+						},
+						"min": {
+							"float": 6.994627668134476
+						},
+						"stddev": {
+							"float": 0.391475069706636
+						},
+						"weight": {
+							"float": 0.9999999999999999
+						}
+					}
+				},
+				"inOctets": {
+					"key": "inOctets",
+					"value": {
+						"avg": {
+							"float": 19317457.656999335
+						},
+						"max": {
+							"float": 24218382.101694115
+						},
+						"min": {
+							"float": 11828391.934077527
+						},
+						"stddev": {
+							"float": 4357025.079017576
+						},
+						"weight": {
+							"float": 0.9999999999999999
+						}
+					}
+				},
+				"inUcastPkts": {
+					"key": "inUcastPkts",
+					"value": {
+						"avg": {
+							"float": 57664.81090191008
+						},
+						"max": {
+							"float": 68725.44866852542
+						},
+						"min": {
+							"float": 39284.53397641512
+						},
+						"stddev": {
+							"float": 10335.418772186933
+						},
+						"weight": {
+							"float": 0.9999999999999999
+						}
+					}
+				},
+				"outMulticastPkts": {
+					"key": "outMulticastPkts",
+					"value": {
+						"avg": {
+							"float": 7.360836936147419
+						},
+						"max": {
+							"float": 7.793694885853129
+						},
+						"min": {
+							"float": 6.794781163330634
+						},
+						"stddev": {
+							"float": 0.3443652952202406
+						},
+						"weight": {
+							"float": 0.9999999999999999
+						}
+					}
+				},
+				"outOctets": {
+					"key": "outOctets",
+					"value": {
+						"avg": {
+							"float": 2570205.0657167127
+						},
+						"max": {
+							"float": 3050837.382860837
+						},
+						"min": {
+							"float": 1924281.2984832167
+						},
+						"stddev": {
+							"float": 388614.8573272845
+						},
+						"weight": {
+							"float": 0.9999999999999999
+						}
+					}
+				},
+				"outUcastPkts": {
+					"key": "outUcastPkts",
+					"value": {
+						"avg": {
+							"float": 34009.75929734199
+						},
+						"max": {
+							"float": 40105.74278353901
+						},
+						"min": {
+							"float": 24242.955846277284
+						},
+						"stddev": {
+							"float": 5588.592329712943
+						},
+						"weight": {
+							"float": 0.9999999999999999
+						}
+					}
+				}
+			}
+		}
+	]
+}

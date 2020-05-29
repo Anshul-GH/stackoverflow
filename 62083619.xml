@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns="http://www.xmltv.org/xmltv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <programme ID="58135" start="20200528000000 +0200" stop="20200528013000 +0200" channel="XTV100006361" recordable="Y" npvrenable="Y" cpvrenable="N" type="program" deleted="false">
+    <blackoutInfo>
+      <isBlackout>1</isBlackout>
+      <groupIDs>2</groupIDs>
+      <streams>00000001</streams>
+    </blackoutInfo>
+    <title lang="sr"><![CDATA[Yoga retreat]]></title>
+    <category lang="sr"><![CDATA[Entertainment]]></category>
+    <icon src="default_playbill.png" ptype="3" />
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme ID="58136" start="20200528013000 +0200" stop="20200528030000 +0200" channel="XTV100006361" recordable="Y" npvrenable="Y" cpvrenable="N" type="program" deleted="false">
+    <blackoutInfo>
+      <isBlackout>1</isBlackout>
+      <groupIDs>2</groupIDs>
+      <streams>00000001</streams>
+    </blackoutInfo>
+    <title lang="sr"><![CDATA[Doctor Who]]></title>
+    <category lang="sr"><![CDATA[Entertainment]]></category>
+    <icon src="default_playbill.png" ptype="3" />
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+</tv>
