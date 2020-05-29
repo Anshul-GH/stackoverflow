@@ -1,0 +1,62 @@
+{
+    "0": {
+        "brand": "Acura",
+        "model": "CL",
+        "year": 1999,
+        "engine": 3,
+        "transmission": 2,
+        "suspension": 1,
+        "brakes": 3,
+        "Overall_Score": 1
+    },
+    "1": {
+        "brand": "Acura",
+        "model": "CL",
+        "year": 2000,
+        "engine": 5,
+        "transmission": 3,
+        "suspension": 7,
+        "brakes": 2,
+        "Overall_Score": 3
+    },
+    "2": {
+        "brand": "BMW",
+        "model": "520",
+        "year": 2015,
+        "engine": 22,
+        "transmission": 4,
+        "suspension": 10,
+        "brakes": 11,
+        "Overall_Score": 2
+    },
+    "3": {
+        "brand": "BMW",
+        "model": "520",
+        "year": 2008,
+        "engine": 1,
+        "transmission": 6,
+        "suspension": 3,
+        "brakes": 6,
+        "Overall_Score": 4
+    },
+    "4": {
+        "brand": "Chevrolet",
+        "model": "Impala",
+        "year": 1997,
+        "engine": 0,
+        "transmission": 2,
+        "suspension": 2,
+        "brakes": 5,
+        "Overall_Score": 1
+    },
+    "5": {
+        "brand": "Chevrolet",
+        "model": "Impala",
+        "year": 2002,
+        "engine": 9,
+        "transmission": 3,
+        "suspension": 8,
+        "brakes": 4,
+        "Overall_Score": 1
+    }
+}
