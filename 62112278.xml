@@ -1,0 +1,18 @@
+<magento_api>
+    <data_item>
+        <code>400</code>
+        <message>Attribute weight is not applicable for product type Configurable Product</message>
+    </data_item>
+    <data_item>
+        <code>400</code>
+        <message></message>
+    </data_item>
+    <data_item>
+        <code></code>
+        <message>abc</message>
+    </data_item>
+    <data_item>
+        <code></code>
+        <message></message>
+    </data_item>
+</magento_api>
