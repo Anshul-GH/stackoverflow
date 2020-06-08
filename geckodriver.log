@@ -34,3 +34,23 @@
 1590354587742	Marionette	INFO	Listening on port 44513
 1590354587762	Marionette	WARN	TLS certificate errors will be ignored for this session
 1590354626814	Marionette	INFO	Stopped listening on port 44513
+1590821567848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIvksoZ"
+1590821568792	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590821569324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590821569324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590821569324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590821569324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590821571796	Marionette	INFO	Listening on port 45721
+1590821571869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.adb.org/sites/default/files/js/js_uuz2w-0nqWxgB6lRQNKq7Fs8_dDxyGqoGY4VNeBzLCs.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590821719402	Marionette	INFO	Stopped listening on port 45721
+1590821747943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileshA1ox"
+1590821748257	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590821748714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590821748714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590821748714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590821748714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590821750622	Marionette	INFO	Listening on port 44267
+1590821750652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.adb.org/sites/default/files/js/js_uuz2w-0nqWxgB6lRQNKq7Fs8_dDxyGqoGY4VNeBzLCs.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590821841994	Marionette	INFO	Stopped listening on port 44267
