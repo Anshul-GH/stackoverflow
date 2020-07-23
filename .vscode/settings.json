@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/anshul/anaconda3/bin/python"
+    "python.pythonPath": "/home/anshul/anaconda3/bin/python",
+    "git.githubAuthentication": false
 }
